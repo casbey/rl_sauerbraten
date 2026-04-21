@@ -348,7 +348,7 @@ namespace game
                         player1->strafe = (act.strafe  < -0.3f) ? -1 : (act.strafe > 0.3f) ? 1 : 0;
                         player1->yaw += act.yaw_d * 15.f;
                         player1->attacking = (act.shoot >= 0.5f); // 0.5
-                        player1->jumping   = false;
+
                     }
                 }
 
