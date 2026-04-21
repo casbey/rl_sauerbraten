@@ -1,2 +1,2 @@
 # rl_sauerbraten
-A reinforcement learning agent for Cube 2: Sauerbraten
+Video of the agent: https://youtu.be/QuXSx8AFpmo
