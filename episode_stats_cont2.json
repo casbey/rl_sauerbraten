@@ -1,0 +1,1802 @@
+[
+  {
+    "episode": 1,
+    "frags": 1,
+    "deaths": 66,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 15487,
+    "enemy_visible_steps": 4108
+  },
+  {
+    "episode": 2,
+    "frags": 0,
+    "deaths": 86,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 12638,
+    "enemy_visible_steps": 6516
+  },
+  {
+    "episode": 3,
+    "frags": 0,
+    "deaths": 73,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 10898,
+    "enemy_visible_steps": 5664
+  },
+  {
+    "episode": 4,
+    "frags": 3,
+    "deaths": 77,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 8722,
+    "enemy_visible_steps": 7614
+  },
+  {
+    "episode": 5,
+    "frags": 1,
+    "deaths": 70,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 7220,
+    "enemy_visible_steps": 6695
+  },
+  {
+    "episode": 6,
+    "frags": 4,
+    "deaths": 90,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 5910,
+    "enemy_visible_steps": 8529
+  },
+  {
+    "episode": 7,
+    "frags": 3,
+    "deaths": 85,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 4784,
+    "enemy_visible_steps": 7495
+  },
+  {
+    "episode": 8,
+    "frags": 5,
+    "deaths": 77,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 3971,
+    "enemy_visible_steps": 8125
+  },
+  {
+    "episode": 9,
+    "frags": 2,
+    "deaths": 66,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 3170,
+    "enemy_visible_steps": 5573
+  },
+  {
+    "episode": 10,
+    "frags": 3,
+    "deaths": 87,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 2726,
+    "enemy_visible_steps": 9320
+  },
+  {
+    "episode": 11,
+    "frags": 1,
+    "deaths": 73,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 2261,
+    "enemy_visible_steps": 6056
+  },
+  {
+    "episode": 12,
+    "frags": 4,
+    "deaths": 93,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 2093,
+    "enemy_visible_steps": 9155
+  },
+  {
+    "episode": 13,
+    "frags": 1,
+    "deaths": 82,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 1916,
+    "enemy_visible_steps": 9221
+  },
+  {
+    "episode": 14,
+    "frags": 2,
+    "deaths": 85,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 1474,
+    "enemy_visible_steps": 9893
+  },
+  {
+    "episode": 15,
+    "frags": 5,
+    "deaths": 69,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 1250,
+    "enemy_visible_steps": 8060
+  },
+  {
+    "episode": 16,
+    "frags": 4,
+    "deaths": 73,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 1176,
+    "enemy_visible_steps": 7643
+  },
+  {
+    "episode": 17,
+    "frags": 1,
+    "deaths": 81,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 1045,
+    "enemy_visible_steps": 8758
+  },
+  {
+    "episode": 18,
+    "frags": 1,
+    "deaths": 72,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 967,
+    "enemy_visible_steps": 8384
+  },
+  {
+    "episode": 19,
+    "frags": 1,
+    "deaths": 74,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 977,
+    "enemy_visible_steps": 9077
+  },
+  {
+    "episode": 20,
+    "frags": 4,
+    "deaths": 79,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 837,
+    "enemy_visible_steps": 8025
+  },
+  {
+    "episode": 21,
+    "frags": 1,
+    "deaths": 78,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 792,
+    "enemy_visible_steps": 9814
+  },
+  {
+    "episode": 22,
+    "frags": 1,
+    "deaths": 75,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 676,
+    "enemy_visible_steps": 6728
+  },
+  {
+    "episode": 23,
+    "frags": 5,
+    "deaths": 82,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 603,
+    "enemy_visible_steps": 9355
+  },
+  {
+    "episode": 24,
+    "frags": 0,
+    "deaths": 87,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 545,
+    "enemy_visible_steps": 9066
+  },
+  {
+    "episode": 25,
+    "frags": 6,
+    "deaths": 81,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 553,
+    "enemy_visible_steps": 9565
+  },
+  {
+    "episode": 26,
+    "frags": 3,
+    "deaths": 68,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 544,
+    "enemy_visible_steps": 6699
+  },
+  {
+    "episode": 27,
+    "frags": 3,
+    "deaths": 67,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 480,
+    "enemy_visible_steps": 7456
+  },
+  {
+    "episode": 28,
+    "frags": 3,
+    "deaths": 80,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 457,
+    "enemy_visible_steps": 8202
+  },
+  {
+    "episode": 29,
+    "frags": 0,
+    "deaths": 72,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 389,
+    "enemy_visible_steps": 7331
+  },
+  {
+    "episode": 30,
+    "frags": 1,
+    "deaths": 83,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 427,
+    "enemy_visible_steps": 9107
+  },
+  {
+    "episode": 31,
+    "frags": 3,
+    "deaths": 83,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 399,
+    "enemy_visible_steps": 8881
+  },
+  {
+    "episode": 32,
+    "frags": 0,
+    "deaths": 94,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 396,
+    "enemy_visible_steps": 8268
+  },
+  {
+    "episode": 33,
+    "frags": 3,
+    "deaths": 84,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 405,
+    "enemy_visible_steps": 10542
+  },
+  {
+    "episode": 34,
+    "frags": 2,
+    "deaths": 95,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 403,
+    "enemy_visible_steps": 9128
+  },
+  {
+    "episode": 35,
+    "frags": 0,
+    "deaths": 71,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 320,
+    "enemy_visible_steps": 7708
+  },
+  {
+    "episode": 36,
+    "frags": 0,
+    "deaths": 86,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 343,
+    "enemy_visible_steps": 7538
+  },
+  {
+    "episode": 37,
+    "frags": 3,
+    "deaths": 84,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 361,
+    "enemy_visible_steps": 9617
+  },
+  {
+    "episode": 38,
+    "frags": 2,
+    "deaths": 99,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 293,
+    "enemy_visible_steps": 10625
+  },
+  {
+    "episode": 39,
+    "frags": 0,
+    "deaths": 79,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 316,
+    "enemy_visible_steps": 9668
+  },
+  {
+    "episode": 40,
+    "frags": 5,
+    "deaths": 81,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 320,
+    "enemy_visible_steps": 7820
+  },
+  {
+    "episode": 41,
+    "frags": 2,
+    "deaths": 89,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 328,
+    "enemy_visible_steps": 11308
+  },
+  {
+    "episode": 42,
+    "frags": 0,
+    "deaths": 82,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 283,
+    "enemy_visible_steps": 8678
+  },
+  {
+    "episode": 43,
+    "frags": 2,
+    "deaths": 98,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 277,
+    "enemy_visible_steps": 10856
+  },
+  {
+    "episode": 44,
+    "frags": 1,
+    "deaths": 80,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 263,
+    "enemy_visible_steps": 10901
+  },
+  {
+    "episode": 45,
+    "frags": 2,
+    "deaths": 106,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 213,
+    "enemy_visible_steps": 10092
+  },
+  {
+    "episode": 46,
+    "frags": 2,
+    "deaths": 60,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 252,
+    "enemy_visible_steps": 7637
+  },
+  {
+    "episode": 47,
+    "frags": 2,
+    "deaths": 102,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 324,
+    "enemy_visible_steps": 11031
+  },
+  {
+    "episode": 48,
+    "frags": 2,
+    "deaths": 89,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 289,
+    "enemy_visible_steps": 10897
+  },
+  {
+    "episode": 49,
+    "frags": 2,
+    "deaths": 88,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 220,
+    "enemy_visible_steps": 12515
+  },
+  {
+    "episode": 50,
+    "frags": 6,
+    "deaths": 72,
+    "kd_ratio": 0.08,
+    "survival_steps": 50000,
+    "shots_fired": 214,
+    "enemy_visible_steps": 8415
+  },
+  {
+    "episode": 51,
+    "frags": 2,
+    "deaths": 94,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 225,
+    "enemy_visible_steps": 8919
+  },
+  {
+    "episode": 52,
+    "frags": 0,
+    "deaths": 87,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 209,
+    "enemy_visible_steps": 8634
+  },
+  {
+    "episode": 53,
+    "frags": 2,
+    "deaths": 91,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 184,
+    "enemy_visible_steps": 10741
+  },
+  {
+    "episode": 54,
+    "frags": 1,
+    "deaths": 85,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 204,
+    "enemy_visible_steps": 8733
+  },
+  {
+    "episode": 55,
+    "frags": 1,
+    "deaths": 95,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 235,
+    "enemy_visible_steps": 9987
+  },
+  {
+    "episode": 56,
+    "frags": 2,
+    "deaths": 91,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 204,
+    "enemy_visible_steps": 11145
+  },
+  {
+    "episode": 57,
+    "frags": 5,
+    "deaths": 82,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 242,
+    "enemy_visible_steps": 9970
+  },
+  {
+    "episode": 58,
+    "frags": 3,
+    "deaths": 88,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 203,
+    "enemy_visible_steps": 10759
+  },
+  {
+    "episode": 59,
+    "frags": 0,
+    "deaths": 74,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 201,
+    "enemy_visible_steps": 9741
+  },
+  {
+    "episode": 60,
+    "frags": 1,
+    "deaths": 81,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 188,
+    "enemy_visible_steps": 9797
+  },
+  {
+    "episode": 61,
+    "frags": 0,
+    "deaths": 73,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 123,
+    "enemy_visible_steps": 9394
+  },
+  {
+    "episode": 62,
+    "frags": 2,
+    "deaths": 84,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 140,
+    "enemy_visible_steps": 9751
+  },
+  {
+    "episode": 63,
+    "frags": 1,
+    "deaths": 96,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 145,
+    "enemy_visible_steps": 10511
+  },
+  {
+    "episode": 64,
+    "frags": 1,
+    "deaths": 85,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 138,
+    "enemy_visible_steps": 9696
+  },
+  {
+    "episode": 65,
+    "frags": 4,
+    "deaths": 94,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 143,
+    "enemy_visible_steps": 8712
+  },
+  {
+    "episode": 66,
+    "frags": 2,
+    "deaths": 91,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 142,
+    "enemy_visible_steps": 10967
+  },
+  {
+    "episode": 67,
+    "frags": 2,
+    "deaths": 85,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 168,
+    "enemy_visible_steps": 7328
+  },
+  {
+    "episode": 68,
+    "frags": 3,
+    "deaths": 94,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 159,
+    "enemy_visible_steps": 11093
+  },
+  {
+    "episode": 69,
+    "frags": 1,
+    "deaths": 84,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 148,
+    "enemy_visible_steps": 11911
+  },
+  {
+    "episode": 70,
+    "frags": 0,
+    "deaths": 93,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 175,
+    "enemy_visible_steps": 10331
+  },
+  {
+    "episode": 71,
+    "frags": 2,
+    "deaths": 76,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 146,
+    "enemy_visible_steps": 8840
+  },
+  {
+    "episode": 72,
+    "frags": 2,
+    "deaths": 87,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 186,
+    "enemy_visible_steps": 11343
+  },
+  {
+    "episode": 73,
+    "frags": 2,
+    "deaths": 82,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 185,
+    "enemy_visible_steps": 10503
+  },
+  {
+    "episode": 74,
+    "frags": 2,
+    "deaths": 102,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 176,
+    "enemy_visible_steps": 9170
+  },
+  {
+    "episode": 75,
+    "frags": 2,
+    "deaths": 82,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 157,
+    "enemy_visible_steps": 11750
+  },
+  {
+    "episode": 76,
+    "frags": 4,
+    "deaths": 93,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 182,
+    "enemy_visible_steps": 11313
+  },
+  {
+    "episode": 77,
+    "frags": 2,
+    "deaths": 74,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 205,
+    "enemy_visible_steps": 10668
+  },
+  {
+    "episode": 78,
+    "frags": 3,
+    "deaths": 98,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 199,
+    "enemy_visible_steps": 11216
+  },
+  {
+    "episode": 79,
+    "frags": 5,
+    "deaths": 85,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 183,
+    "enemy_visible_steps": 12258
+  },
+  {
+    "episode": 80,
+    "frags": 4,
+    "deaths": 87,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 215,
+    "enemy_visible_steps": 10456
+  },
+  {
+    "episode": 81,
+    "frags": 2,
+    "deaths": 77,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 200,
+    "enemy_visible_steps": 10467
+  },
+  {
+    "episode": 82,
+    "frags": 4,
+    "deaths": 84,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 245,
+    "enemy_visible_steps": 12445
+  },
+  {
+    "episode": 83,
+    "frags": 7,
+    "deaths": 104,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 213,
+    "enemy_visible_steps": 11235
+  },
+  {
+    "episode": 84,
+    "frags": 1,
+    "deaths": 91,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 219,
+    "enemy_visible_steps": 11505
+  },
+  {
+    "episode": 85,
+    "frags": 6,
+    "deaths": 88,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 231,
+    "enemy_visible_steps": 9779
+  },
+  {
+    "episode": 86,
+    "frags": 0,
+    "deaths": 91,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 225,
+    "enemy_visible_steps": 11626
+  },
+  {
+    "episode": 87,
+    "frags": 6,
+    "deaths": 77,
+    "kd_ratio": 0.08,
+    "survival_steps": 50000,
+    "shots_fired": 252,
+    "enemy_visible_steps": 10756
+  },
+  {
+    "episode": 88,
+    "frags": 5,
+    "deaths": 98,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 197,
+    "enemy_visible_steps": 13925
+  },
+  {
+    "episode": 89,
+    "frags": 4,
+    "deaths": 91,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 214,
+    "enemy_visible_steps": 10734
+  },
+  {
+    "episode": 90,
+    "frags": 1,
+    "deaths": 85,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 235,
+    "enemy_visible_steps": 9763
+  },
+  {
+    "episode": 91,
+    "frags": 3,
+    "deaths": 95,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 189,
+    "enemy_visible_steps": 12094
+  },
+  {
+    "episode": 92,
+    "frags": 3,
+    "deaths": 98,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 190,
+    "enemy_visible_steps": 11310
+  },
+  {
+    "episode": 93,
+    "frags": 3,
+    "deaths": 89,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 236,
+    "enemy_visible_steps": 10229
+  },
+  {
+    "episode": 94,
+    "frags": 4,
+    "deaths": 88,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 177,
+    "enemy_visible_steps": 10991
+  },
+  {
+    "episode": 95,
+    "frags": 1,
+    "deaths": 80,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 215,
+    "enemy_visible_steps": 8946
+  },
+  {
+    "episode": 96,
+    "frags": 5,
+    "deaths": 94,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 176,
+    "enemy_visible_steps": 12619
+  },
+  {
+    "episode": 97,
+    "frags": 3,
+    "deaths": 86,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 150,
+    "enemy_visible_steps": 12546
+  },
+  {
+    "episode": 98,
+    "frags": 5,
+    "deaths": 79,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 182,
+    "enemy_visible_steps": 8779
+  },
+  {
+    "episode": 99,
+    "frags": 3,
+    "deaths": 99,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 220,
+    "enemy_visible_steps": 11203
+  },
+  {
+    "episode": 100,
+    "frags": 1,
+    "deaths": 80,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 240,
+    "enemy_visible_steps": 10595
+  },
+  {
+    "episode": 101,
+    "frags": 2,
+    "deaths": 88,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 158,
+    "enemy_visible_steps": 11001
+  },
+  {
+    "episode": 102,
+    "frags": 1,
+    "deaths": 83,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 149,
+    "enemy_visible_steps": 11243
+  },
+  {
+    "episode": 103,
+    "frags": 5,
+    "deaths": 82,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 137,
+    "enemy_visible_steps": 9873
+  },
+  {
+    "episode": 104,
+    "frags": 5,
+    "deaths": 78,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 180,
+    "enemy_visible_steps": 12017
+  },
+  {
+    "episode": 105,
+    "frags": 2,
+    "deaths": 87,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 148,
+    "enemy_visible_steps": 11370
+  },
+  {
+    "episode": 106,
+    "frags": 5,
+    "deaths": 95,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 160,
+    "enemy_visible_steps": 11464
+  },
+  {
+    "episode": 107,
+    "frags": 4,
+    "deaths": 96,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 170,
+    "enemy_visible_steps": 11614
+  },
+  {
+    "episode": 108,
+    "frags": 2,
+    "deaths": 80,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 132,
+    "enemy_visible_steps": 9992
+  },
+  {
+    "episode": 109,
+    "frags": 1,
+    "deaths": 81,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 136,
+    "enemy_visible_steps": 9728
+  },
+  {
+    "episode": 110,
+    "frags": 1,
+    "deaths": 83,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 152,
+    "enemy_visible_steps": 11725
+  },
+  {
+    "episode": 111,
+    "frags": 3,
+    "deaths": 102,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 154,
+    "enemy_visible_steps": 12946
+  },
+  {
+    "episode": 112,
+    "frags": 1,
+    "deaths": 81,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 147,
+    "enemy_visible_steps": 11788
+  },
+  {
+    "episode": 113,
+    "frags": 2,
+    "deaths": 90,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 173,
+    "enemy_visible_steps": 12997
+  },
+  {
+    "episode": 114,
+    "frags": 0,
+    "deaths": 84,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 170,
+    "enemy_visible_steps": 10706
+  },
+  {
+    "episode": 115,
+    "frags": 2,
+    "deaths": 104,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 150,
+    "enemy_visible_steps": 11451
+  },
+  {
+    "episode": 116,
+    "frags": 1,
+    "deaths": 99,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 164,
+    "enemy_visible_steps": 13117
+  },
+  {
+    "episode": 117,
+    "frags": 2,
+    "deaths": 80,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 185,
+    "enemy_visible_steps": 11114
+  },
+  {
+    "episode": 118,
+    "frags": 0,
+    "deaths": 94,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 172,
+    "enemy_visible_steps": 12351
+  },
+  {
+    "episode": 119,
+    "frags": 3,
+    "deaths": 102,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 207,
+    "enemy_visible_steps": 11679
+  },
+  {
+    "episode": 120,
+    "frags": 2,
+    "deaths": 83,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 223,
+    "enemy_visible_steps": 12639
+  },
+  {
+    "episode": 121,
+    "frags": 1,
+    "deaths": 86,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 228,
+    "enemy_visible_steps": 14384
+  },
+  {
+    "episode": 122,
+    "frags": 6,
+    "deaths": 86,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 256,
+    "enemy_visible_steps": 12751
+  },
+  {
+    "episode": 123,
+    "frags": 1,
+    "deaths": 82,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 287,
+    "enemy_visible_steps": 11394
+  },
+  {
+    "episode": 124,
+    "frags": 6,
+    "deaths": 92,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 250,
+    "enemy_visible_steps": 15511
+  },
+  {
+    "episode": 125,
+    "frags": 5,
+    "deaths": 87,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 216,
+    "enemy_visible_steps": 11350
+  },
+  {
+    "episode": 126,
+    "frags": 1,
+    "deaths": 93,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 235,
+    "enemy_visible_steps": 11120
+  },
+  {
+    "episode": 127,
+    "frags": 5,
+    "deaths": 75,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 241,
+    "enemy_visible_steps": 11797
+  },
+  {
+    "episode": 128,
+    "frags": 3,
+    "deaths": 89,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 273,
+    "enemy_visible_steps": 11776
+  },
+  {
+    "episode": 129,
+    "frags": 2,
+    "deaths": 95,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 271,
+    "enemy_visible_steps": 12476
+  },
+  {
+    "episode": 130,
+    "frags": 3,
+    "deaths": 85,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 211,
+    "enemy_visible_steps": 11971
+  },
+  {
+    "episode": 131,
+    "frags": 7,
+    "deaths": 97,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 239,
+    "enemy_visible_steps": 12225
+  },
+  {
+    "episode": 132,
+    "frags": 4,
+    "deaths": 99,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 288,
+    "enemy_visible_steps": 12640
+  },
+  {
+    "episode": 133,
+    "frags": 1,
+    "deaths": 82,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 261,
+    "enemy_visible_steps": 10182
+  },
+  {
+    "episode": 134,
+    "frags": 4,
+    "deaths": 84,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 241,
+    "enemy_visible_steps": 11546
+  },
+  {
+    "episode": 135,
+    "frags": 3,
+    "deaths": 92,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 287,
+    "enemy_visible_steps": 11040
+  },
+  {
+    "episode": 136,
+    "frags": 0,
+    "deaths": 99,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 260,
+    "enemy_visible_steps": 11357
+  },
+  {
+    "episode": 137,
+    "frags": 5,
+    "deaths": 99,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 277,
+    "enemy_visible_steps": 11186
+  },
+  {
+    "episode": 138,
+    "frags": 5,
+    "deaths": 81,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 263,
+    "enemy_visible_steps": 12284
+  },
+  {
+    "episode": 139,
+    "frags": 1,
+    "deaths": 94,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 218,
+    "enemy_visible_steps": 11914
+  },
+  {
+    "episode": 140,
+    "frags": 1,
+    "deaths": 95,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 283,
+    "enemy_visible_steps": 10367
+  },
+  {
+    "episode": 141,
+    "frags": 2,
+    "deaths": 95,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 256,
+    "enemy_visible_steps": 11476
+  },
+  {
+    "episode": 142,
+    "frags": 5,
+    "deaths": 105,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 247,
+    "enemy_visible_steps": 12423
+  },
+  {
+    "episode": 143,
+    "frags": 6,
+    "deaths": 91,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 235,
+    "enemy_visible_steps": 12462
+  },
+  {
+    "episode": 144,
+    "frags": 2,
+    "deaths": 74,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 194,
+    "enemy_visible_steps": 11376
+  },
+  {
+    "episode": 145,
+    "frags": 6,
+    "deaths": 93,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 199,
+    "enemy_visible_steps": 12153
+  },
+  {
+    "episode": 146,
+    "frags": 0,
+    "deaths": 97,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 182,
+    "enemy_visible_steps": 10642
+  },
+  {
+    "episode": 147,
+    "frags": 6,
+    "deaths": 89,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 179,
+    "enemy_visible_steps": 12813
+  },
+  {
+    "episode": 148,
+    "frags": 2,
+    "deaths": 93,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 223,
+    "enemy_visible_steps": 11181
+  },
+  {
+    "episode": 149,
+    "frags": 2,
+    "deaths": 92,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 212,
+    "enemy_visible_steps": 10791
+  },
+  {
+    "episode": 150,
+    "frags": 1,
+    "deaths": 92,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 143,
+    "enemy_visible_steps": 8769
+  },
+  {
+    "episode": 151,
+    "frags": 3,
+    "deaths": 84,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 141,
+    "enemy_visible_steps": 11367
+  },
+  {
+    "episode": 152,
+    "frags": 5,
+    "deaths": 87,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 148,
+    "enemy_visible_steps": 10974
+  },
+  {
+    "episode": 153,
+    "frags": 1,
+    "deaths": 97,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 149,
+    "enemy_visible_steps": 9168
+  },
+  {
+    "episode": 154,
+    "frags": 1,
+    "deaths": 82,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 175,
+    "enemy_visible_steps": 10925
+  },
+  {
+    "episode": 155,
+    "frags": 4,
+    "deaths": 76,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 163,
+    "enemy_visible_steps": 9348
+  },
+  {
+    "episode": 156,
+    "frags": 1,
+    "deaths": 74,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 154,
+    "enemy_visible_steps": 9739
+  },
+  {
+    "episode": 157,
+    "frags": 2,
+    "deaths": 74,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 182,
+    "enemy_visible_steps": 11367
+  },
+  {
+    "episode": 158,
+    "frags": 1,
+    "deaths": 76,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 180,
+    "enemy_visible_steps": 10392
+  },
+  {
+    "episode": 159,
+    "frags": 1,
+    "deaths": 82,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 154,
+    "enemy_visible_steps": 12656
+  },
+  {
+    "episode": 160,
+    "frags": 4,
+    "deaths": 88,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 199,
+    "enemy_visible_steps": 10837
+  },
+  {
+    "episode": 161,
+    "frags": 3,
+    "deaths": 74,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 188,
+    "enemy_visible_steps": 11511
+  },
+  {
+    "episode": 162,
+    "frags": 4,
+    "deaths": 103,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 181,
+    "enemy_visible_steps": 11351
+  },
+  {
+    "episode": 163,
+    "frags": 6,
+    "deaths": 97,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 209,
+    "enemy_visible_steps": 12158
+  },
+  {
+    "episode": 164,
+    "frags": 6,
+    "deaths": 89,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 283,
+    "enemy_visible_steps": 11149
+  },
+  {
+    "episode": 165,
+    "frags": 5,
+    "deaths": 86,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 324,
+    "enemy_visible_steps": 11100
+  },
+  {
+    "episode": 166,
+    "frags": 6,
+    "deaths": 79,
+    "kd_ratio": 0.08,
+    "survival_steps": 50000,
+    "shots_fired": 337,
+    "enemy_visible_steps": 12625
+  },
+  {
+    "episode": 167,
+    "frags": 1,
+    "deaths": 86,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 422,
+    "enemy_visible_steps": 9489
+  },
+  {
+    "episode": 168,
+    "frags": 4,
+    "deaths": 88,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 389,
+    "enemy_visible_steps": 10217
+  },
+  {
+    "episode": 169,
+    "frags": 4,
+    "deaths": 84,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 351,
+    "enemy_visible_steps": 10114
+  },
+  {
+    "episode": 170,
+    "frags": 4,
+    "deaths": 81,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 347,
+    "enemy_visible_steps": 9531
+  },
+  {
+    "episode": 171,
+    "frags": 4,
+    "deaths": 90,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 312,
+    "enemy_visible_steps": 13093
+  },
+  {
+    "episode": 172,
+    "frags": 5,
+    "deaths": 94,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 314,
+    "enemy_visible_steps": 12893
+  },
+  {
+    "episode": 173,
+    "frags": 3,
+    "deaths": 98,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 279,
+    "enemy_visible_steps": 10653
+  },
+  {
+    "episode": 174,
+    "frags": 1,
+    "deaths": 84,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 322,
+    "enemy_visible_steps": 9985
+  },
+  {
+    "episode": 175,
+    "frags": 3,
+    "deaths": 85,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 302,
+    "enemy_visible_steps": 8197
+  },
+  {
+    "episode": 176,
+    "frags": 1,
+    "deaths": 86,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 280,
+    "enemy_visible_steps": 8774
+  },
+  {
+    "episode": 177,
+    "frags": 4,
+    "deaths": 75,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 306,
+    "enemy_visible_steps": 9798
+  },
+  {
+    "episode": 178,
+    "frags": 6,
+    "deaths": 82,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 318,
+    "enemy_visible_steps": 11420
+  },
+  {
+    "episode": 179,
+    "frags": 2,
+    "deaths": 86,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 284,
+    "enemy_visible_steps": 11140
+  },
+  {
+    "episode": 180,
+    "frags": 2,
+    "deaths": 94,
+    "kd_ratio": 0.02,
+    "survival_steps": 50000,
+    "shots_fired": 276,
+    "enemy_visible_steps": 12355
+  },
+  {
+    "episode": 181,
+    "frags": 1,
+    "deaths": 95,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 225,
+    "enemy_visible_steps": 10926
+  },
+  {
+    "episode": 182,
+    "frags": 1,
+    "deaths": 80,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 242,
+    "enemy_visible_steps": 10527
+  },
+  {
+    "episode": 183,
+    "frags": 3,
+    "deaths": 87,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 255,
+    "enemy_visible_steps": 11661
+  },
+  {
+    "episode": 184,
+    "frags": 6,
+    "deaths": 91,
+    "kd_ratio": 0.07,
+    "survival_steps": 50000,
+    "shots_fired": 311,
+    "enemy_visible_steps": 11671
+  },
+  {
+    "episode": 185,
+    "frags": 1,
+    "deaths": 87,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 280,
+    "enemy_visible_steps": 9872
+  },
+  {
+    "episode": 186,
+    "frags": 3,
+    "deaths": 76,
+    "kd_ratio": 0.04,
+    "survival_steps": 50000,
+    "shots_fired": 274,
+    "enemy_visible_steps": 10062
+  },
+  {
+    "episode": 187,
+    "frags": 4,
+    "deaths": 82,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 326,
+    "enemy_visible_steps": 13501
+  },
+  {
+    "episode": 188,
+    "frags": 4,
+    "deaths": 83,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 319,
+    "enemy_visible_steps": 9668
+  },
+  {
+    "episode": 189,
+    "frags": 5,
+    "deaths": 99,
+    "kd_ratio": 0.05,
+    "survival_steps": 50000,
+    "shots_fired": 278,
+    "enemy_visible_steps": 13115
+  },
+  {
+    "episode": 190,
+    "frags": 6,
+    "deaths": 69,
+    "kd_ratio": 0.09,
+    "survival_steps": 50000,
+    "shots_fired": 325,
+    "enemy_visible_steps": 8729
+  },
+  {
+    "episode": 191,
+    "frags": 1,
+    "deaths": 97,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 301,
+    "enemy_visible_steps": 10503
+  },
+  {
+    "episode": 192,
+    "frags": 1,
+    "deaths": 95,
+    "kd_ratio": 0.01,
+    "survival_steps": 50000,
+    "shots_fired": 308,
+    "enemy_visible_steps": 11072
+  },
+  {
+    "episode": 193,
+    "frags": 0,
+    "deaths": 97,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 376,
+    "enemy_visible_steps": 10966
+  },
+  {
+    "episode": 194,
+    "frags": 5,
+    "deaths": 77,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 348,
+    "enemy_visible_steps": 10488
+  },
+  {
+    "episode": 195,
+    "frags": 3,
+    "deaths": 88,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 419,
+    "enemy_visible_steps": 10594
+  },
+  {
+    "episode": 196,
+    "frags": 5,
+    "deaths": 87,
+    "kd_ratio": 0.06,
+    "survival_steps": 50000,
+    "shots_fired": 383,
+    "enemy_visible_steps": 11448
+  },
+  {
+    "episode": 197,
+    "frags": 0,
+    "deaths": 85,
+    "kd_ratio": 0.0,
+    "survival_steps": 50000,
+    "shots_fired": 333,
+    "enemy_visible_steps": 13472
+  },
+  {
+    "episode": 198,
+    "frags": 3,
+    "deaths": 92,
+    "kd_ratio": 0.03,
+    "survival_steps": 50000,
+    "shots_fired": 305,
+    "enemy_visible_steps": 9658
+  },
+  {
+    "episode": 199,
+    "frags": 7,
+    "deaths": 87,
+    "kd_ratio": 0.08,
+    "survival_steps": 50000,
+    "shots_fired": 336,
+    "enemy_visible_steps": 13455
+  },
+  {
+    "episode": 200,
+    "frags": 7,
+    "deaths": 92,
+    "kd_ratio": 0.08,
+    "survival_steps": 50000,
+    "shots_fired": 329,
+    "enemy_visible_steps": 12574
+  }
+]
